@@ -1,4 +1,4 @@
-# DeliMeals
+# Foodify
 Delimeals is a Flutter mobile application that displays information about meals and categorizes them according to different filters. Users can browse through the app and search for their favorite meals, mark meals as their favorites, and filter them by different criteria such as gluten-free, vegetarian, vegan, and more.
 
 ## Features
